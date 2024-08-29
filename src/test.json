@@ -1,0 +1,34 @@
+[
+    {
+        "id":66309010001,
+        "name":"นายกนกพล",
+        "nickname": "Get",
+        "tel": "123-456-7890",
+        "email":"66309010001@thonburi.ac.th",
+        "image":"https://static.vecteezy.com/system/resources/thumbnails/024/346/462/small_2x/3d-happy-cartoon-boy-on-transparent-background-generative-ai-png.png"
+    },
+    {
+        "id":66309010003,
+        "name":"นายณัฐวัฒน์",
+        "nickname": "Frank",
+        "tel": "098-765-4321",
+        "email":"66309010003@thonburi.ac.th",
+        "image":"https://r2.erweima.ai/imgcompressed/compressed_5b268b365347e70cee5dfa91fb0e2ba2.webp"
+    },
+    {
+        "id":66309010004,
+        "name":"นายธนภัทร",
+        "nickname":"Kim",
+        "tel":"012-345-0888",
+        "email":"66309010004@thonburi.ac.th",
+        "image":"https://r2.erweima.ai/imgcompressed/img/compressed_a59312a42a16e6b120711884f9a387a2.webp"
+    },
+    {
+        "id":66309010005,
+        "name":"นายธนวัฒน์",
+        "nickname":"P",
+        "tel":"081-204-5920",
+        "email":"66309010005@thonburi.ac.th",
+        "image":"https://pngfile.net/download/q49Pk24E2ldFXrzPZafrnbCkU2F4S3xOoW9KKJBMTLQiaItveXDMroInbNYev7Ujpp4oSmckkK3RZ7YDB47fFgrAuoueoK110QL9Ipw4MULYUCVpeNlw1lAWyrfbmB2Tfu03BpzZxQfj0irQombqZfjyl14UBE43nwt1bSVS4oS0lPou1xqxa6cLPNDe8GfbHfGwt1TV/large"
+    }
+]
